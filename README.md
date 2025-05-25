@@ -5,7 +5,7 @@ It displays current weather and a 5-day forecast using charts.
 
 ## Live Demo:
 
-👉 [View the App](https://amrutha20005.github.io/weatherapp/)
+ [View the App](https://amrutha20005.github.io/weatherapp/)
 
 ## Features:
 
